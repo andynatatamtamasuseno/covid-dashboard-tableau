@@ -1,1 +1,1 @@
-# covid-dashboard-tableau
+#Dashboard of Covid in Indonesian using Tableau
